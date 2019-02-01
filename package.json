@@ -7,7 +7,10 @@
   },
   "dependencies": {
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "react-meta-tags": "^0.7.3",
+    "react-router-dom": "^4.3.1",
+    "underscore": "^1.9.1"
   },
   "scripts": {
     "start": "react-scripts start",
