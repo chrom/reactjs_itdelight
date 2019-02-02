@@ -1,7 +1,5 @@
 import React from 'react';
 import Comment from './Comment';
-import _ from 'lodash';
-
 
 export default class CommentsWrapper extends React.Component {
 
